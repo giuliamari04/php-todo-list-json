@@ -20,7 +20,6 @@ input[type="checkbox"]:checked{
 ul{
     box-shadow: 0px 0px 20px 5px white;
     max-height: 70vh;
-    background-color: white;
 }
 .red{
     color: #f5624d;
